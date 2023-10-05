@@ -1,2 +1,2 @@
 # skinero! 🪄✨
-magical rebranding for all your internet needs!
+## magical rebranding for all your internet needs!
