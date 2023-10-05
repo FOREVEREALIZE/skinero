@@ -1,0 +1,28 @@
+{
+	"name": "[Android] Phone Wallpaper",
+	"id": "implandroid-phone-wallpaper",
+	"assets": [
+		{
+			"name": "Lockscreen Wallpaper",
+			"id": "lock-wallpaper",
+			"type": "image",
+			"formats": [ "png", "jpg", "jpeg" ],
+			"required": true,
+			"attributes": {
+				"aspect_ratio": [ "20:9", "9:20" ],
+				"minimum_resolution": [ "1920x864", "864x1920" ]
+			}
+		},
+		{
+			"name": "Homescreen Wallpaper",
+			"id": "home-wallpaper",
+			"type": "image",
+			"formats": [ "png", "jpg", "jpeg" ],
+			"required": true,
+			"attributes": {
+				"aspect_ratio": [ "20:9", "9:20" ],
+				"minimum_resolution": [ "1920x864", "864x1920" ]
+			}
+		}
+	]
+}
